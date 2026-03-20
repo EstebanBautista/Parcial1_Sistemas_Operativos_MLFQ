@@ -2,7 +2,7 @@
 
 ## Tabla de Contenidos
 
-- [Descripción General](#-descripción-general)
+- [Descripción General]([#-descripción-general](https://github.com/EstebanBautista/Parcial1_Sistemas_Operativos_MLFQ/blob/main/README.md#descripci%C3%B3n-general))
 - [Infome](#-informe)
 - [Video Explicativo](#-video-explicativo)
 - [Arquitectura del Sistema](-arquitectura-del-sistema)
