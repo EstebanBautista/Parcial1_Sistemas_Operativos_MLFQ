@@ -5,7 +5,7 @@
 - [Descripción General](#-descripción-general)
 - [Infome](#-informe)
 - [Video Explicativo](#-video-explicativo)
-- [Arquitectura del Sistema](#️-arquitectura-del-sistema)
+- [Arquitectura del Sistema](-arquitectura-del-sistema)
 - [Algoritmos Implementados](#-algoritmos-implementados)
 - [Instalación y Compilación](#-instalación-y-compilación)
 - [Guía de Uso](#-guía-de-uso)
