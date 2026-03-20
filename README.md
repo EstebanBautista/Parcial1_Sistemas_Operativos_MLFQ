@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26143726/README.md)
 # Simulador de Algoritmo MLFQ (Multi-Level Feedback Queue)
 
 ## Tabla de Contenidos
