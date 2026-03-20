@@ -1,0 +1,4 @@
+g++ src\main.cpp src\mlfq.cpp src\process.cpp src\rr.cpp src\simulador.cpp src\sjf.cpp -o simulacion.exe
+simulacion.exe test\mlq001.txt
+simulacion.exe test\mlq002.txt
+simulacion.exe test\mlq003.txt
